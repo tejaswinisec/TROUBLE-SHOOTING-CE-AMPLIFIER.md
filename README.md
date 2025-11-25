@@ -14,5 +14,5 @@
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
 <img width="1280" height="967" alt="image" src="https://github.com/user-attachments/assets/ecb99af2-75f9-49d9-9450-ba042304f8bf" />
+<img width="1280" height="569" alt="image" src="https://github.com/user-attachments/assets/ff050bbb-3faa-43ff-b481-caaec3f49374" />
 
-![WhatsApp Image 2025-11-21 at 23 45 17_23afb58f](https://github.com/user-attachments/assets/83562a7e-d346-4f77-ac8e-f0332fa49a84)
